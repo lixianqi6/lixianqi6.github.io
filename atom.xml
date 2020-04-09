@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>李善良的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lixianqi6.github.io.git/"/>
+  <updated>2020-04-09T12:40:42.428Z</updated>
+  <id>https://lixianqi6.github.io.git/</id>
+  
+  <author>
+    <name>lishanliang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python</title>
+    <link href="https://lixianqi6.github.io.git/2020/04/09/python/"/>
+    <id>https://lixianqi6.github.io.git/2020/04/09/python/</id>
+    <published>2020-04-09T12:40:07.000Z</published>
+    <updated>2020-04-09T12:40:42.428Z</updated>
+    
+    <content type="html"><![CDATA[<p>我都第一个python文章</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我都第一个python文章&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[自动化测试]</title>
+    <link href="https://lixianqi6.github.io.git/2020/04/09/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
+    <id>https://lixianqi6.github.io.git/2020/04/09/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-04-09T11:42:44.000Z</published>
+    <updated>2020-04-09T12:31:59.262Z</updated>
+    
+    <content type="html"><![CDATA[<p>我要在这里写我都自动化测试的心得了<br>from selenium import webdriver<br>from find_element import FindElement<br>from selenium.webdriver.support import expected_conditions as EC<br>import sys</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我要在这里写我都自动化测试的心得了&lt;br&gt;from selenium import webdriver&lt;br&gt;from find_element import FindElement&lt;br&gt;from selenium.webdriver.support import exp
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
